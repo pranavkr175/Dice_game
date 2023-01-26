@@ -1,3 +1,4 @@
+alert("Welcome to Dice guessing Game...");
 
 var num=prompt("Enter number between 1-6");
 
